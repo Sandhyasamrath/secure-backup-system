@@ -1,0 +1,4 @@
+backups/
+restored_files/
+temp/
+logs/*.log
