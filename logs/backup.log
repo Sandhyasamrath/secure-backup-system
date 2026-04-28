@@ -1,0 +1,13 @@
+----------------------------------------
+Backup started at: Monday 27 April 2026 07:11:09 PM IST
+tar: Removing leading `/' from member names
+Backup successful: backup_2026-04-27_19-11-09.tar.gz
+Old backups older than 7 days deleted.
+Backup ended at: Monday 27 April 2026 07:11:09 PM IST
+----------------------------------------
+Backup started at: Monday 27 April 2026 07:34:06 PM IST
+tar: Removing leading `/' from member names
+Compression successful: backup_2026-04-27_19-34-06.tar.gz
+Encrypted backup successful: backup_2026-04-27_19-34-06.tar.gz.gpg
+Old encrypted backups older than 7 days deleted.
+Backup ended at: Monday 27 April 2026 07:34:36 PM IST
